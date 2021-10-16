@@ -1,0 +1,757 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1440px;
+	 height: 615px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1440px;
+	 height: 615px;
+	 z-index:1;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 50px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 379px;
+	 z-index:2;
+} 
+
+ #Rectangle1copy3 
+{ 
+	 left: 50px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 236px;
+	 z-index:3;
+} 
+
+ #Layer10 
+{ 
+	 left: 46px; 
+	 top: 86px; 
+	 position: absolute; 
+	 width: 649px;
+	 height: 366px;
+	 z-index:4;
+} 
+
+ #Rectangle1copy5 
+{ 
+	 left: 50px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 236px;
+	 z-index:5;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 65px; 
+	 top: 323px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 36px;
+	 z-index:6;
+} 
+
+ #Bestcollege2018 
+{ 
+	 left: 83px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 13px;
+	 z-index:7;
+} 
+
+ #Rectangle2_0 
+{ 
+	 left: 207px; 
+	 top: 323px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 36px;
+	 z-index:8;
+} 
+
+ #2kmsaway 
+{ 
+	 left: 223px; 
+	 top: 334px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 13px;
+	 z-index:9;
+} 
+
+ #7in260collegesinnort 
+{ 
+	 left: 476px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 13px;
+	 z-index:10;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 600px; 
+	 top: 163px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 55px;
+	 z-index:11;
+} 
+
+ #395VeryGood 
+{ 
+	 left: 610px; 
+	 top: 173px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 35px;
+	 z-index:12;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 537px; 
+	 top: 120px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 33px;
+	 z-index:13;
+} 
+
+ #PROMOTED 
+{ 
+	 left: 585px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 11px;
+	 z-index:14;
+} 
+
+ #HansrajCollegeDelhiU 
+{ 
+	 left: 68px; 
+	 top: 387px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 17px;
+	 z-index:15;
+} 
+
+ #Layer17 
+{ 
+	 left: 339px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:16;
+} 
+
+ #Layer17copy 
+{ 
+	 left: 353px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:17;
+} 
+
+ #Layer17copy2 
+{ 
+	 left: 366px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 11px;
+	 z-index:18;
+} 
+
+ #Layer17copy3 
+{ 
+	 left: 381px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:19;
+} 
+
+ #Layer17copy4 
+{ 
+	 left: 395px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:20;
+} 
+
+ #NearVishwavidyalyaMe 
+{ 
+	 left: 68px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 13px;
+	 z-index:21;
+} 
+
+ #93Match25kmsfromGTBN 
+{ 
+	 left: 68px; 
+	 top: 445px; 
+	 position: absolute; 
+	 width: 358px;
+	 height: 13px;
+	 z-index:22;
+} 
+
+ #Rectangle4 
+{ 
+	 left: 51px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 349px;
+	 height: 37px;
+	 z-index:23;
+} 
+
+ #FlatRs2000offuptoRs5 
+{ 
+	 left: 69px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 309px;
+	 height: 13px;
+	 z-index:24;
+} 
+
+ #FreeCancellation 
+{ 
+	 left: 484px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 10px;
+	 z-index:25;
+} 
+
+ #FreeWiFi 
+{ 
+	 left: 603px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 10px;
+	 z-index:26;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 591px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:27;
+} 
+
+ #Layer15 
+{ 
+	 left: 589px; 
+	 top: 386px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 15px;
+	 z-index:28;
+} 
+
+ #layer_68756 
+{ 
+	 left: 593px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 10px;
+	 z-index:29;
+} 
+
+ #PerSemester3months 
+{ 
+	 left: 557px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 10px;
+	 z-index:30;
+} 
+
+ #layer_5768 
+{ 
+	 left: 578px; 
+	 top: 407px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 26px;
+	 z-index:31;
+} 
+
+ #Shape3 
+{ 
+	 left: 591px; 
+	 top: 387px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 4px;
+	 z-index:32;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 634px; 
+	 top: 381px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 14px;
+	 z-index:33;
+} 
+
+ #layer_20 
+{ 
+	 left: 647px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 9px;
+	 z-index:34;
+} 
+
+ #Ellipse2 
+{ 
+	 left: 639px; 
+	 top: 385px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 6px;
+	 z-index:35;
+} 
+
+ #2Kmsawayfrombusstand 
+{ 
+	 left: 278px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 13px;
+	 z-index:36;
+} 
+
+ #Shape2 
+{ 
+	 left: 269px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 14px;
+	 z-index:37;
+} 
+
+ #Rectangle1_0 
+{ 
+	 left: 750px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 379px;
+	 z-index:38;
+} 
+
+ #Rectangle1copy3_0 
+{ 
+	 left: 750px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 236px;
+	 z-index:39;
+} 
+
+ #Layer10_0 
+{ 
+	 left: 746px; 
+	 top: 86px; 
+	 position: absolute; 
+	 width: 649px;
+	 height: 366px;
+	 z-index:40;
+} 
+
+ #Rectangle1copy5_0 
+{ 
+	 left: 750px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 236px;
+	 z-index:41;
+} 
+
+ #Rectangle2_1 
+{ 
+	 left: 765px; 
+	 top: 323px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 36px;
+	 z-index:42;
+} 
+
+ #Bestcollege2018_0 
+{ 
+	 left: 783px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 13px;
+	 z-index:43;
+} 
+
+ #Rectangle2_2 
+{ 
+	 left: 907px; 
+	 top: 323px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 36px;
+	 z-index:44;
+} 
+
+ #2kmsaway_0 
+{ 
+	 left: 923px; 
+	 top: 334px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 13px;
+	 z-index:45;
+} 
+
+ #7in260collegesinnort_0 
+{ 
+	 left: 1176px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 13px;
+	 z-index:46;
+} 
+
+ #Rectangle3_0 
+{ 
+	 left: 1300px; 
+	 top: 163px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 55px;
+	 z-index:47;
+} 
+
+ #395VeryGood_0 
+{ 
+	 left: 1310px; 
+	 top: 173px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 35px;
+	 z-index:48;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 1237px; 
+	 top: 120px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 33px;
+	 z-index:49;
+} 
+
+ #PROMOTED_0 
+{ 
+	 left: 1285px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 11px;
+	 z-index:50;
+} 
+
+ #HansrajCollegeDelhiU_0 
+{ 
+	 left: 768px; 
+	 top: 387px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 17px;
+	 z-index:51;
+} 
+
+ #Layer17_0 
+{ 
+	 left: 1039px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:52;
+} 
+
+ #Layer17copy_0 
+{ 
+	 left: 1053px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:53;
+} 
+
+ #Layer17copy2_0 
+{ 
+	 left: 1066px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 11px;
+	 z-index:54;
+} 
+
+ #Layer17copy3_0 
+{ 
+	 left: 1081px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:55;
+} 
+
+ #Layer17copy4_0 
+{ 
+	 left: 1095px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:56;
+} 
+
+ #NearVishwavidyalyaMe_0 
+{ 
+	 left: 768px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 13px;
+	 z-index:57;
+} 
+
+ #93Match25kmsfromGTBN_0 
+{ 
+	 left: 768px; 
+	 top: 445px; 
+	 position: absolute; 
+	 width: 358px;
+	 height: 13px;
+	 z-index:58;
+} 
+
+ #Rectangle4_0 
+{ 
+	 left: 751px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 349px;
+	 height: 37px;
+	 z-index:59;
+} 
+
+ #FlatRs2000offuptoRs5_0 
+{ 
+	 left: 769px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 309px;
+	 height: 13px;
+	 z-index:60;
+} 
+
+ #FreeCancellation_0 
+{ 
+	 left: 1184px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 10px;
+	 z-index:61;
+} 
+
+ #FreeWiFi_0 
+{ 
+	 left: 1303px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 10px;
+	 z-index:62;
+} 
+
+ #Ellipse1_0 
+{ 
+	 left: 1291px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:63;
+} 
+
+ #Layer15_0 
+{ 
+	 left: 1289px; 
+	 top: 386px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 15px;
+	 z-index:64;
+} 
+
+ #layer_68756_0 
+{ 
+	 left: 1293px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 10px;
+	 z-index:65;
+} 
+
+ #PerSemester3months_0 
+{ 
+	 left: 1257px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 10px;
+	 z-index:66;
+} 
+
+ #layer_5768_0 
+{ 
+	 left: 1278px; 
+	 top: 407px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 26px;
+	 z-index:67;
+} 
+
+ #Shape3_0 
+{ 
+	 left: 1291px; 
+	 top: 387px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 4px;
+	 z-index:68;
+} 
+
+ #VectorSmartObject_2 
+{ 
+	 left: 1334px; 
+	 top: 381px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 14px;
+	 z-index:69;
+} 
+
+ #layer_20_0 
+{ 
+	 left: 1347px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 9px;
+	 z-index:70;
+} 
+
+ #Ellipse2_0 
+{ 
+	 left: 1339px; 
+	 top: 385px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 6px;
+	 z-index:71;
+} 
+
+ #2Kmsawayfrombusstand_0 
+{ 
+	 left: 978px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 13px;
+	 z-index:72;
+} 
+
+ #Shape2_0 
+{ 
+	 left: 969px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 14px;
+	 z-index:73;
+} 
+
+ #CollegesinNorthIndia 
+{ 
+	 left: 56px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 18px;
+	 z-index:74;
+} 
